@@ -31,7 +31,7 @@ program FrameDem;
 
 uses
   Forms,
-  DemoSubs in 'DemoSubs.pas',
+  //Delphi 2006 Not found error, also not used in demo: DemoSubs in 'DemoSubs.pas',
   Fontdlg in 'Fontdlg.pas' {FontForm},
   Gopage in 'Gopage.pas' {GoPageForm},
   Htmlabt in 'Htmlabt.pas' {AboutBox},
